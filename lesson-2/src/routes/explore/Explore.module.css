@@ -1,0 +1,35 @@
+.products{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  padding: 10px;
+  margin: 0 auto;
+  background-color: #fff;
+}
+
+
+.explore__products{
+  width: 300px;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding-left: 50px;
+  margin-bottom: 15px;
+}
+
+.explore__image{
+  width: 200px;
+  height: 200px;
+  
+}
+.product__star{
+  color: rgb(237, 172, 20);
+}
+.product__price{
+  color: darkblue;
+}
+.explore__link{
+  text-decoration: none;
+  color: black;
+}

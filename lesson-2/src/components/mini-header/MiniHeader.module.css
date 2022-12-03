@@ -1,0 +1,20 @@
+.miniHeader{
+  padding-top: 10px;
+  width: 100%;
+  min-height: 50px;
+  background-color: #232E3E;
+  display: flex;
+  justify-content: space-between;
+}
+.miniheader__btns{
+  margin-left: 10px;
+  padding: 5px;
+  border-radius: 5px;
+  border: solid 1px black;
+}
+.miniheader__btn{
+  margin-right: 10px;
+  padding: 5px;
+  border-radius: 5px;
+  border: solid 1px black;
+}
